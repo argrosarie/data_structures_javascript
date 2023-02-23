@@ -1,1 +1,1 @@
-# data_structures_javascript
+# Data Structures in Javascript Practice
